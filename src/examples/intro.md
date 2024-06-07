@@ -1,17 +1,18 @@
 ---
 layout: ../../layouts/post.astro
-title: Code to Canvas
-description: This is a post about how creating and developing a blog for yourself can be beneficial and how building your audience is important.
-dateFormatted: July 7th, 2023
+title: Intro
+description: An introduction to my blog, including what kind of topics I usually focus on, what technologies I am most excited about, and what I hope others can learn from my various ramblings.
+dateFormatted: June 7th, 2024
+link: /posts/intro
 ---
 
-![Coffee and Code](/assets/images/posts/code-canvas.jpg)
+![Intro](/assets/images/posts/code-canvas.jpg)
 
 Starting a blog as a developer is not just about sharing code snippets or technical tutorials. It's about sharing a piece of yourself, your experiences, and your unique perspective on the world of technology. Every developer has their own way of explaining things, and by putting your knowledge out there, you're not only helping others but also carving a niche for yourself in the vast digital landscape.
 
 ## 📝 **Your Unique Voice in the Tech World**
 
-Remember, when you write, you're not just sharing information. You're sharing *yourself*. Your experiences, your trials, your successes, and even your failures. This personal touch is what makes your content stand out in a sea of generic articles.
+Remember, when you write, you're not just sharing information. You're sharing _yourself_. Your experiences, your trials, your successes, and even your failures. This personal touch is what makes your content stand out in a sea of generic articles.
 
 > "In the end, we'll all become stories." - Margaret Atwood
 
@@ -28,7 +29,7 @@ As your blog grows and garners more attention, opportunities will arise. Maybe y
 
 ## 🎨 **Personal Branding and Authenticity**
 
-As you expand, remember the essence of what made your blog unique: *you*. Ensure that your personal brand shines through, whether it's in the design of your website, the products you offer, or the services you provide.
+As you expand, remember the essence of what made your blog unique: _you_. Ensure that your personal brand shines through, whether it's in the design of your website, the products you offer, or the services you provide.
 
 **Stay authentic.** In a world filled with information, authenticity is a rare gem. Your readers will appreciate it, and it will set you apart from the competition.
 
