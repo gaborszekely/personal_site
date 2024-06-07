@@ -3,7 +3,6 @@ layout: ../../layouts/post.astro
 title: Intro
 description: An introduction to my blog, including what topics I usually focus on, the technologies I am most excited about, and what I hope others can learn from my ramblings.
 dateFormatted: June 7th, 2024
-link: /posts/intro
 ---
 
 <!-- ![Intro](/assets/images/posts/code-canvas.jpg) -->
