@@ -64,7 +64,7 @@ const allPosts = await Astro.glob('../pages/posts/*.md');
             <span>{post.frontmatter.description}</span>
           </p>
           <div class="mt-2.5 text-xs font-medium text-neutral-800 dark:text-neutral-300">
-            Posted on {post.frontmatter.dateFormatted}
+            Posted on {post.frontmatter.pubDate}
           </div>
         </div>
       </div>
