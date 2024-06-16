@@ -11,7 +11,7 @@ Welcome to my blog! I plan to use this space to share any thoughts, tips/tricks,
 
 A bit of an introduction to myself - I started programing way back in middle school, starting with simple HTML sites (see the [wayback machine](https://web.archive.org/web/20070824090440/http://www.istvanpszekely.com/) for some of my work from back then 😂) I eventually tought myself some JavaScript, CSS, PHP, MySQL, and even a little C++ before deciding to give up and go back to doing normal teen stuff.
 
-In college, I pursued a BS in Business Administration and eventually found myself working in sales and marketing for some local startups. During this time, I was tasked with revamping the web presence of these companies, and rediscovered my passion for coding in the process. I decided to quit my job and enroll in a coding bootcamp to pursue this newfound passion.
+In college, I pursued a BS in Business Administration and eventually found myself working in sales and marketing for some local startups. During this time, I was tasked with revamping the websites of these companies, and rediscovered my passion for coding in the process. I decided to quit my job and enroll in a coding bootcamp to pursue this passion full-time.
 
 I attended Hack Reactor at Galvanize, and upon graduating found my first job as a front-end developer at Charter Communications. After a year there, I decided I wanted to level up and take a shot at the "big leagues" (FAANG). I spent about 2-3 months preparing for interviews, and eventually applied to Google as a Software Engineer. To my surprise, I got in!
 
